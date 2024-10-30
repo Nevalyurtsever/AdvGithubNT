@@ -7,4 +7,6 @@ public class Student {
     //techpro 4
     //--------
     //****************************
+
+//dev 2nın kodları
 }
