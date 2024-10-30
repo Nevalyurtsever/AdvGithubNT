@@ -15,6 +15,6 @@ public class Runner {
         System.out.println("techpro 3");
 
         //techpro 4
-
+//dev 1 kodlarını yazdi
     }
 }
