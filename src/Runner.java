@@ -3,5 +3,7 @@ public class Runner {
         System.out.println("Hello worldg");
         //versiyon 2
         System.out.println("versiyon 2");
+        //versiyon 3
+        System.out.println("versiyon 3");
     }
 }
