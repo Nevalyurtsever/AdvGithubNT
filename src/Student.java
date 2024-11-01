@@ -1,12 +1,7 @@
 public class Student {
-    //versiyon 2
-    public String name;
+    public static void main(String[] args) {
+        //vers1
+        System.out.println("vers1");
+    }
 
-    //techpro 2
-
-    //techpro 4
-    //--------
-    //****************************
-
-    //dev 1 degısıklık yaptı
 }
